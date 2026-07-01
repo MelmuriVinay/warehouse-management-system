@@ -4,6 +4,10 @@ A commercial-grade Warehouse Management and Accounting System designed for cold 
 
 The cross-platform application digitizes day-to-day warehouse operations by managing inventory movement, financial accounting, customer transactions, invoicing, and reporting through a unified desktop application.
 
+## Project Vision
+
+The primary goal of this application is to simplify warehouse operations through an intuitive and user-friendly interface while providing reliable customer support. The system is designed to minimize manual effort, reduce operational errors, and enable warehouse staff to efficiently manage inventory, accounting, and customer communications with minimal training.
+
 > **Note:** This repository showcases the architecture, features, and technologies of the project. The complete source code is private because the application is commercially deployed and contains proprietary business logic.
 
 ---

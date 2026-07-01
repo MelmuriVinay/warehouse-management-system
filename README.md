@@ -166,25 +166,25 @@ This helps warehouse operators communicate with customers quickly without manual
 > Screenshots of the application UI will be added here.
 
 * Login
-* <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/68a663df-3ba8-4932-9db7-6056f089e240" />
+ <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/68a663df-3ba8-4932-9db7-6056f089e240" />
 * Dashboard
-*<img width="1920" height="1030" alt="Capture" src="https://github.com/user-attachments/assets/053f15e0-1475-4fe8-98b6-e00bcdad0dab" />
+  <img width="1920" height="1030" alt="Capture" src="https://github.com/user-attachments/assets/053f15e0-1475-4fe8-98b6-e00bcdad0dab" />
 * Deposit (ACK)
-* <img width="1920" height="922" alt="Capture" src="https://github.com/user-attachments/assets/e66f6c91-223d-4331-ba7c-60c969b9889a" />
+  <img width="1920" height="922" alt="Capture" src="https://github.com/user-attachments/assets/e66f6c91-223d-4331-ba7c-60c969b9889a" />
 * Withdrawal (DC)
-* <img width="1920" height="918" alt="Capture" src="https://github.com/user-attachments/assets/f655e92c-8a61-4183-bf7b-d8fa03d60908" />
+  <img width="1920" height="918" alt="Capture" src="https://github.com/user-attachments/assets/f655e92c-8a61-4183-bf7b-d8fa03d60908" />
 * Invoice
-* <img width="1920" height="922" alt="in" src="https://github.com/user-attachments/assets/678eb01b-aa73-416b-9be6-d3aee35b34f9" />
+  <img width="1920" height="922" alt="in" src="https://github.com/user-attachments/assets/678eb01b-aa73-416b-9be6-d3aee35b34f9" />
 * Stock Reports
-* <img width="1920" height="920" alt="detailedstock" src="https://github.com/user-attachments/assets/e366e114-93fa-457c-ab58-f440ab9d57f7" />
+  <img width="1920" height="920" alt="detailedstock" src="https://github.com/user-attachments/assets/e366e114-93fa-457c-ab58-f440ab9d57f7" />
 * Account Statement
-* <img width="1920" height="916" alt="accstmt" src="https://github.com/user-attachments/assets/5b6d23b9-7065-40e2-b2de-b3fc773d2753" />
+  <img width="1920" height="916" alt="accstmt" src="https://github.com/user-attachments/assets/5b6d23b9-7065-40e2-b2de-b3fc773d2753" />
 * Profit & Loss
-* <img width="1920" height="920" alt="pl" src="https://github.com/user-attachments/assets/c1cf4050-015a-4ec6-91ac-d8bff6384dbb" />
+  <img width="1920" height="920" alt="pl" src="https://github.com/user-attachments/assets/c1cf4050-015a-4ec6-91ac-d8bff6384dbb" />
 * Balance Sheet
-* <img width="1920" height="918" alt="bs" src="https://github.com/user-attachments/assets/710b6eee-6792-46ce-aa41-ad67852ab2af" />
+  <img width="1920" height="918" alt="bs" src="https://github.com/user-attachments/assets/710b6eee-6792-46ce-aa41-ad67852ab2af" />
 * Profile
-* <img width="1920" height="890" alt="pr" src="https://github.com/user-attachments/assets/05a2f724-f15b-4a4e-aa65-ecc4483f4548" />
+  <img width="1920" height="890" alt="pr" src="https://github.com/user-attachments/assets/05a2f724-f15b-4a4e-aa65-ecc4483f4548" />
 
 
 

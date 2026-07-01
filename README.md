@@ -167,8 +167,6 @@ This helps warehouse operators communicate with customers quickly without manual
 
 # Screenshots
 
-> Screenshots of the application UI will be added here.
-
 * Login
  <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/68a663df-3ba8-4932-9db7-6056f089e240" />
 * Dashboard

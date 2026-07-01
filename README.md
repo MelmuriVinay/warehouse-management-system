@@ -1,4 +1,4 @@
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/595dd0c6-8839-4438-9378-f5c11c6876c1" /># Warehouse Management System
+# Warehouse Management System
 
 A commercial-grade Warehouse Management and Accounting System designed for cold storage and commodity warehouses handling products such as **Dry Chilli, Dry Ginger, Tamarind, Turmeric, Maize, and other agricultural commodities**.
 
